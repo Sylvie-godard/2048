@@ -1,0 +1,81 @@
+h1{
+    
+    color :black; 
+    text-align: center;
+}
+
+body{
+    background-image: url('one-piece.jpg');
+}
+
+.blue{
+    border-radius: 10px;
+    display: block;    
+    height:80px;
+    width:80px;
+    opacity: 0.9;
+    background-color: rgb(19, 123, 172)
+}
+
+
+.blue1{
+    border-radius: 10px;
+    display: block;    
+    height:80px;
+    width:80px;
+    opacity: 0.9;
+    background-color: rgb(72, 189, 243)
+}
+
+.beige{
+    border-radius: 10px;
+    display: block;    
+    height:80px;
+    width:80px;
+    opacity: 0.9;
+    background-color: rgb(226, 178, 59)
+}
+
+button{
+    background-color: rgb(71, 108, 129);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.restart{
+    margin-left:500px;
+}
+
+
+.myBlock{
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;    
+    height:350px;
+    width:350px;
+}
+
+.block1{
+    border-radius: 10px;
+    display: block;    
+    height:80px;
+    width:80px;
+    background-color:white;
+    opacity: 0.9;
+
+}
+
+
+.numero{
+    text-align: center;
+    font-size: 24px;
+    margin:auto;
+}
